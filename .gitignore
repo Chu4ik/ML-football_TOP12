@@ -1,0 +1,18 @@
+# Дані (не комітимо)
+football_data/
+flashscore_data/
+archive_data/
+*.json
+*.csv
+
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
